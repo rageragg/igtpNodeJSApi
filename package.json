@@ -1,0 +1,22 @@
+{
+  "name": "igtpnodejsapi",
+  "version": "1.0.0",
+  "description": "REST API Node iGTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rageragg/igtpNodeJSApi.git"
+  },
+  "keywords": [
+    "rageragg"
+  ],
+  "author": "RaGECA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rageragg/igtpNodeJSApi/issues"
+  },
+  "homepage": "https://github.com/rageragg/igtpNodeJSApi#readme"
+}
